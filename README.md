@@ -4,5 +4,4 @@
 A React Website that displays a cat.
 
 ### Screenshots
-<img src="https://imgur.com/hpKEzfE" width="300">
-
+[Imgur](https://imgur.com/hpKEzfE)
