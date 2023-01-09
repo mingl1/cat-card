@@ -9,7 +9,7 @@ export default function Footer() {
         <img src={twitter} alt="angela" />
       </div>
       <div className="Logo">
-        <img src={instagram} alt="angela" />
+        <img className="Insta" src={instagram} alt="angela" />
       </div>
       <div className="Logo">
         <img src={twitch} alt="" />
