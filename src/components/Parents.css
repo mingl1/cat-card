@@ -1,0 +1,53 @@
+.Parents {
+  display: flex;
+  justify-content: space-evenly;
+  box-sizing: border-box;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.Mom , .Dad{
+  width: 50%;
+  height: 35px;
+  background-color: brown;
+  padding: 0px 7px;
+  border-radius: 5px;
+  margin: 5% 3%;
+}
+.Parents p{
+  margin: auto;
+}
+.Mom, .Dad {
+  box-sizing: border-box;
+  display: flex;
+  color: #E06C4E;
+  background-color: #E8B88C;
+  font-weight: 700;
+  align-items: center;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.Parents img {
+  min-width: 20px;
+  width: 30%;
+  margin-bottom: 2px;
+  margin-right: 2px;
+}
+.Dad{
+  color:  	#eadb87;
+    background-color: #23895d;
+    letter-spacing: 3px;
+}
+
+.Dad img{
+  min-width: 23.37px
+}
+/* @media screen and (max-width: 320px){
+  .Parents img{
+    display: none;
+  }
+  .Parents p{
+    margin: auto;
+  }
+} */
